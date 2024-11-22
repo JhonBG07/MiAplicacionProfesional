@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">E-llaw</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
+    <string name="todo">TODO</string>
+    <string name="barrer">barrer</string>
+    <string name="horario">horario</string>
+    <string name="ellaw">Ellaw</string>
+    <string name="menu_horario">Menu Horario</string>
+    <string name="atras">Atras</string>
+    <string name="encender">Encender</string>
+    <string name="logout">Cerrar Sesion</string>
+    <string name="toast_msg">Barriendo las oportunidades de estar con ella</string>
+    <string name="agregar">Agregar</string>
+    <string name="actualizar">Actualizar</string>
+</resources>
